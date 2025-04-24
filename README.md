@@ -35,6 +35,9 @@ src/
 ├── firebase/
 │   └── config.js              # Firebase config & initialization
 │
+├── utils/
+│   └── validate.js            # Validate logic (email & password pattern logic)
+│
 ├── App.jsx                    # Route declarations
 └── main.jsx                   # React entrypoint
 ```
